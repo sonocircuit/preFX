@@ -40,7 +40,7 @@ PreFx {
 					snd = XFade2.ar(in, wet, (drive * 2) - 1);
 
 					Out.ar(outBus, snd);
-				});
+				}).add;
 
 				"preFX added".postln;
 			}, "/prefx/init");
