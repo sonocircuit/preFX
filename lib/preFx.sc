@@ -1,4 +1,4 @@
-// preFX v0.1 - boilerplate pre-insert-fx - @sonoCircuit
+// preFX v0.1 - pre-insert-fx boilerplate - @sonoCircuit
 
 PreFx {
 
