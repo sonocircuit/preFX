@@ -1,6 +1,6 @@
 // preFX v0.1 - pre-insert-fx boilerplate - @sonoCircuit
 
-PreFx {
+PreFx { // give it a unique name that starts with a capital letter.
 
 	*initClass {
 
